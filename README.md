@@ -13,7 +13,7 @@ conda env create -n neural-processes -f environment.yaml
 
 Visualise the predictive mean and variance from the trained NP given increasing number of context points:
 
-<img src="docs/np.gif" width="50%" height="30%"/>
+<img src="docs/lnp.gif" width="50%" height="30%"/>
 
 ### References
 
